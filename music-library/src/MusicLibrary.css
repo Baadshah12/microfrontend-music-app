@@ -1,0 +1,25 @@
+.library-container {
+  background: white;
+  padding: 1rem;
+  border-radius: 8px;
+  box-shadow: 0 0 6px rgba(0,0,0,0.1);
+}
+
+.song-list li {
+  padding: 6px 0;
+}
+
+.delete-button {
+  background-color: crimson;
+  color: white;
+  border: none;
+  margin-left: 1rem;
+  padding: 4px 8px;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+input, select {
+  padding: 6px;
+  margin-right: 0.5rem;
+}
